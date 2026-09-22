@@ -72,12 +72,12 @@ O sistema permite organizar produtos, categorias, fornecedores, estoque e movime
 
 Os dados de teste estão disponíveis nos arquivos CSV:
 
-- [categoria.csv](categoria.csv)
-- [fornecedor.csv](fornecedor.csv)
-- [produto.csv](produto.csv)
-- [estoque.csv](estoque.csv)
-- [movimentacao_estoque.csv](movimentacao_estoque.csv)
-
+- [categoria.csv](csv/categoria.csv)
+- [fornecedor.csv](csv/fornecedor.csv)
+- [produto.csv](csv/produto.csv)
+- [estoque.csv](csv/estoque.csv)
+- [movimentacao_estoque.csv](csv/movimentacao_estoque.csv)
+- 
 ## Banco de Dados
 
 O banco de dados utilizado no projeto é o MySQL/MariaDB.
