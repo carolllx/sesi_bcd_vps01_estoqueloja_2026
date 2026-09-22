@@ -8,11 +8,11 @@ O sistema permite organizar produtos, categorias, fornecedores, estoque e movime
 
 ## MER DER Conceitual
 
-![MER DER Conceitual](mer_der_conceitual.drawio.png)
+![MER DER Conceitual](imagem/mer_der_conceitual.drawio.png)
 
 ## MER DER Lógico
 
-![MER DER Lógico](mer_der_logico.drawio.png)
+![MER DER Lógico](imagem/mer_der_logico.drawio.png)
 
 ## Dicionário de Dados
 
