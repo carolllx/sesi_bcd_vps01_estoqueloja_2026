@@ -1,0 +1,6 @@
+﻿id;nome;descrição;preço;marca;id_categoria;id_fornecedor
+1;Camiseta Basica Branca;Camiseta de algodão branca;R$ 49,90;Moda Brasil;1;1
+2;Calça Jeans Skinny;Calça jeans azul skinny;R$ 129,90;Trend Jeans;2;3
+3;Vestido Floral;Vestido estampado floral;R$ 159,90;Estilo Fashion;3;2
+4;Jaqueta Jeans;Jaqueta jeans tradicional;R$ 199,90;Trend Jeans;4;3
+5;Camiseta Preta Oversized;Camiseta preta de modelagem ampla;R$ 69,90;Estilo Fashion;1;2
